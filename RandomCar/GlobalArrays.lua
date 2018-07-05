@@ -750,6 +750,37 @@ RandomCharP3DPool = {
 	"zmale4_m"
 }
 
+--Level interiors
+l1interiors = {
+	"00",
+	"01",
+	"02",
+}
+
+l2interiors = {
+	"03",
+	"04"
+}
+
+--Level 6 has the same interiors.
+l3interiors = {
+	"05",
+	"06"
+}
+
+--Level 7 has the same interiors.
+l4interiors = {
+	"00",
+	"01",
+	"02",
+	"07"
+}
+
+l5interiors = {
+	"03",
+	"04"
+}
+
 -- DRIVER LIST
 CarDrivers = {}
 CarDrivers["apu"] = {"apu_v"}
